@@ -77,6 +77,8 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - [CMU] [10703: Deep Reinforcement Learning and Control, Spring 2017](https://katefvision.github.io/)
  - [MIT] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
    - [Lecture 2: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+ - [MIT] Deep Learning Basics -- [Video](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) [slides](https://www.dropbox.com/s/c0g3sc1shi63x3q/deep_learning_basics.pdf?dl=0)
+ - [MIT] Introduction to Deep RL [Video](https://www.youtube.com/watch?v=zR11FLZ-O9M&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) [Slides](https://www.dropbox.com/s/wekmlv45omd266o/deep_rl_intro.pdf?dl=0)
  - [Siraj Raval]: Introduction to AI for Video Games (Reinforcement Learning Video Series)
    - [Introduction to AI for video games](https://youtu.be/i_McNBDP9Qs)
    - [Monte Carlo Prediction](https://youtu.be/-YpalutQCKw)
@@ -84,7 +86,8 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
    - [Solving the basic game of Pong](https://youtu.be/pN7ETkOizGM)
    - [Actor Critic Algorithms](https://youtu.be/w_3mmm0P0j8)
    - [War Robots](https://youtu.be/tm5kQmjfZN8)
-    
+ - [Stanford] [Stanford CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/playlist?list=PLCH_MtKnU6rXoFJkxfUoeMzU9_CPwdjLq)
+ - [Deepmind] [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 ### Books
  - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [[Book]](http://incompleteideas.net/book/ebook/the-book.html) [[Code]](http://incompleteideas.net/book/code/code.html)
@@ -103,6 +106,15 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
  - Michael L. Littman, "Reinforcement learning improves behaviour from evaluative feedback." Nature 521.7553 (2015): 445-451. [[Paper]](http://www.nature.com/nature/journal/v521/n7553/full/nature14540.html)
  - Marc P. Deisenroth, Gerhard Neumann, Jan Peter, A Survey on Policy Search for Robotics, Foundations and Trends in Robotics, 2014. [[Book]](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/12051/7/fnt_corrected_2014-8-22.pdf)
  - Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath, A Brief Survey of Deep Rei nforcement Learning, IEEE Signal Processing Magazine, 2017. [[Paper]](https://arxiv.org/abs/1708.05866)
+- Ghavamzadeh, Mohammad, et al. "Bayesian reinforcement learning: A survey." Foundations and Trends® in Machine Learning 8.5-6 (2015): 359-483. [[Paper]](https://arxiv.org/pdf/1609.04436.pdf)
+- Bu, Lucian, Robert Babu, and Bart De Schutter. "A comprehensive survey of multiagent reinforcement learning." IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) 38.2 (2008): 156-172. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4445757)
+- Kiumarsi, Bahare, et al. "Optimal and autonomous control using reinforcement learning: A survey." IEEE transactions on neural networks and learning systems 29.6 (2017): 2042-2062. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8169685)
+- Mao, Qian, Fei Hu, and Qi Hao. "Deep learning for intelligent wireless networks: A comprehensive survey." IEEE Communications Surveys & Tutorials 20.4 (2018): 2595-2621. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8382166)
+- Grondman, Ivo, et al. "A survey of actor-critic reinforcement learning: Standard and natural policy gradients." IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) 42.6 (2012): 1291-1307. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6392457)
+
+[[Paper]]()
+
+
 
 ### Papers / Thesis
 Foundational Papers
